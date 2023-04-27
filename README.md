@@ -18,10 +18,9 @@
 <a href="https://twitter.com/meymoun_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meymoun_b" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meymoun-boualaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meymoun-boualaoui" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16894915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16894915" height="30" width="40" /></a>
-<a href="https://codesandbox.com/readycash2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="readycash2222" height="30" width="40" /></a>
 <a href="https://instagram.com/meymoun_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meymoun_b" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uck_culbzpexanm_tukiqcgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uck_culbzpexanm_tukiqcgg" height="30" width="40" /></a>
-<a href="https://discord.gg/ReadyCash#8904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ReadyCash#8904" height="30" width="40" /></a>
+<a href="https://discord.gg/KDKqDWjSfp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KDKqDWjSfp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +28,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/meymoun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="meymoun" /></a><a href="https://ko-fi.com/meymoun"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="meymoun" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=readycash2222&show_icons=true&locale=en&layout=compact" alt="readycash2222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=readycash2222&show_icons=true&locale=en" alt="readycash2222" /></p>
