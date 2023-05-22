@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **boualaoui.meymoun.icn@gmail.com**
 
+- 🔭 How to hire me at [[https://meymounboualaoui.fr/](https://www.malt.fr/profile/meymounboualaoui)]
+
 - ⚡ Fun fact **I don't have time to play around.**
 
 <h3 align="left">Connect with me:</h3>
