@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=readycash2222&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on **Bee Driver (pro private repo)**
-- 🌱 I’m constantly learning more about **React.js and Javascript**
+- 🌱 I’m constantly learning more about **Next.js and NextUI**
 - 👨‍💻 All of my projects are available at [https://meymounboualaoui.fr/](https://meymounboualaoui.fr/)
 - 📫 How to reach me: **<boualaoui.meymoun.icn@gmail.com>**
 - 🔭 How to hire me at [www.malt.fr/profile/meymounboualaoui](https://www.malt.fr/profile/meymounboualaoui)
