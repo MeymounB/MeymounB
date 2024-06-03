@@ -21,8 +21,8 @@
 
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeymounB&amp;count_private=true&amp;show_icons=true&amp;theme=dark" alt="MeymounB" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeymounB&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="MeymounB"/> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeymounB&amp;count_private=true&amp;&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true;" alt="MeymounB" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeymounB&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true&count_private=true;" alt="MeymounB"/> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Top Repositories
 
