@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=readycash2222&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver), [**NextGeneration**](https://github.com/Next-Generation-Dev) and [**Seeqr**](https://github.com/Seeqr-Marketplace)
+- 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver), [**Next Generation**](https://github.com/Next-Generation-Dev) and [**Seeqr**](https://github.com/Seeqr-Marketplace)
 - 🌱 I'm constantly learning more about **Next.js and NextUI**
 - 👨‍💻 All of my projects are available at [https://meymounboualaoui.fr/](https://meymounboualaoui.fr/)
 - 📫 How to reach me: **<boualaoui.meymoun.icn@gmail.com>**
