@@ -13,11 +13,11 @@
 - 🔭 How to hire me at [www.malt.fr/profile/meymounboualaoui](https://www.malt.fr/profile/meymounboualaoui)
 - ⚡ Fun fact: **I don't have time to play around.**
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" /></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" alt="javascript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+<code><img height="30" alt="typescript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
+<code><img height="30" alt="react" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg"></code>
+<code><img height="30" alt="nextjs" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" /></code>
+<code><img height="30" alt="nodejs" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg"></code>
 
 <br />
 
