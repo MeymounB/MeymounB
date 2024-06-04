@@ -24,6 +24,8 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeymounB&count_private=true&include_all_commits=true&show_icons=true&theme=buefy&hide_border=true" alt="MeymounB" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeymounB&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true&count_private=true&langs_count=8" alt="MeymounB"/> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MeymounB)](https://github.com/MeymounB/github-profile-trophy)
+
 #### Top Repositories
 
 <a href="https://github.com/MeymounB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeymounB&repo=Portfolio-ThreeJs&theme=buefy" /></a> | <a href="https://github.com/MeymounB/MeymounB.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeymounB&repo=Tripify&theme=buefy" /></a>
