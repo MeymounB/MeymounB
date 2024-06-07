@@ -4,7 +4,7 @@
 
 ## A front-end developer from France
 
-![Profile views](https://komarev.com/ghpvc/?username=readycash2222&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=MeymounB&style=for-the-badge&color=green)
 
 - 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver), [**Next Generation**](https://github.com/Next-Generation-Dev) and [**Seeqr**](https://github.com/Seeqr-Marketplace)
 - 🌱 I'm constantly learning more about **Next.js and NextUI**
@@ -21,10 +21,10 @@
 
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeymounB&count_private=true&include_all_commits=true&show_icons=true&theme=buefy&hide_border=true" alt="MeymounB" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MeymounB&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true&count_private=true&langs_count=8" alt="MeymounB"/> |
+| <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MeymounB&show_icons=true&theme=vision-friendly-dark"> | <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.15&count_weight=0.5&langs_count=8&layout=compact&theme=vision-friendly-dark"> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MeymounB)](https://github.com/MeymounB/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MeymounB&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Top Repositories
 
