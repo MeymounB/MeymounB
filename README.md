@@ -22,7 +22,7 @@
 ---
 
 <p align=left>
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MeymounB&show_icons=true&theme=vision-friendly-dark"> | <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeymounB&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&langs_count=8"> 
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MeymounB&show_icons=true&theme=vision-friendly-dark"><img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeymounB&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&langs_count=8"> 
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MeymounB&theme=onedark)](https://github.com/MeymounB/github-profile-trophy)
