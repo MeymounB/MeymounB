@@ -24,7 +24,7 @@
 | <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MeymounB&show_icons=true&theme=vision-friendly-dark"> | <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeymounB&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&langs_count=8"> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MeymounB&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MeymounB&theme=onedark)](https://github.com/MeymounB/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Top Repositories
 
