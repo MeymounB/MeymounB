@@ -4,7 +4,7 @@
 
 ## A front-end developer from France
 
-![Profile views](https://komarev.com/ghpvc/?username=MeymounB&style=for-the-badge&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=MeymounB&style=for-the-badge&color=orange)
 
 ### About me
 
