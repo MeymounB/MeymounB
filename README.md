@@ -75,4 +75,4 @@
 
 ### How to reach me :mailbox:
 
-<a href="https://www.linkedin.com/in/meymoun-boualaoui/"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Contact me" /></a>
+<a href="https://www.linkedin.com/in/meymoun-boualaoui/"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Contact me on LinkedIn" /></a> <a href="mailto:boualaoui.meymoun.icn@gmail.com"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Contact me on Gmail" /></a>
