@@ -72,3 +72,7 @@
         <td style="text-align: center; vertical-align: middle;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
     </tr>
 </table>
+
+### How to reach me :mailbox:
+
+[![LinkedIn](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/meymoun-boualaoui/)
