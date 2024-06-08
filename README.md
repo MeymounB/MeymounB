@@ -8,6 +8,8 @@
 
 <!-- https://komarev.com/ghpvc/?username=readycash2222&label=Profile%20views&color=0e75b6&style=flat -->
 
+---
+
 ### About me
 
 - 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver), [**Next Generation**](https://github.com/Next-Generation-Dev) and [**Seeqr**](https://github.com/Seeqr-Marketplace)
@@ -78,6 +80,8 @@
         <td style="text-align: center; vertical-align: middle;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
     </tr>
 </table>
+
+---
 
 ### How to reach me :mailbox:
 
