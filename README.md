@@ -6,6 +6,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=MeymounB&style=for-the-badge&color=orange)
 
+<!-- https://komarev.com/ghpvc/?username=readycash2222&label=Profile%20views&color=0e75b6&style=flat -->
+
 ### About me
 
 - 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver), [**Next Generation**](https://github.com/Next-Generation-Dev) and [**Seeqr**](https://github.com/Seeqr-Marketplace)
@@ -75,4 +77,6 @@
 
 ### How to reach me :mailbox:
 
-<a href="https://www.linkedin.com/in/meymoun-boualaoui/"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Contact me on LinkedIn" /></a> <a href="mailto:boualaoui.meymoun.icn@gmail.com"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Contact me on Gmail" /></a>
+<code><a href="https://www.linkedin.com/in/meymoun-boualaoui/" target="_blank"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Contact me on LinkedIn" /></a></code>
+<code><a href="https://mail.google.com/mail/?view=cm&fs=1&to=boualaoui.meymoun.icn@gmail.com&su=Contact%20from%20GitHub"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Contact me on Gmail" /></a></code>
+<code><a href="mailto:boualaoui.meymoun.icn@gmail.com?subject=Contact%20from%20GitHub">boualaoui.meymoun.icn@gmail.com</a></code>
