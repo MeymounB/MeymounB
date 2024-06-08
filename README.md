@@ -79,4 +79,4 @@
 
 <code><a href="https://www.linkedin.com/in/meymoun-boualaoui/" target="_blank"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Contact me on LinkedIn" /></a></code>
 <code><a href="https://mail.google.com/mail/?view=cm&fs=1&to=boualaoui.meymoun.icn@gmail.com&su=Contact%20from%20GitHub"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="Contact me on Gmail" /></a></code>
-<code><a href="mailto:boualaoui.meymoun.icn@gmail.com?subject=Contact%20from%20GitHub">boualaoui.meymoun.icn@gmail.com</a></code>
+<code><a href="mailto:boualaoui.meymoun.icn@gmail.com?subject=Contact%20from%20GitHub" contenteditable="true">boualaoui.meymoun.icn@gmail.com</a></code>
