@@ -69,7 +69,6 @@
         <th style="text-align: center; vertical-align: middle;">Reactjs</th>
         <th style="text-align: center; vertical-align: middle;">Nextjs</th>
         <th style="text-align: center; vertical-align: middle;">Nodejs</th>
-        <th style="text-align: center; vertical-align: middle;">Express</th>
         <th style="text-align: center; vertical-align: middle;">Postman</th>
         <th style="text-align: center; vertical-align: middle;">Git</th>
     </tr>
