@@ -6,8 +6,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=MeymounB&style=for-the-badge&color=orange)
 
-<!-- https://komarev.com/ghpvc/?username=readycash2222&label=Profile%20views&color=0e75b6&style=flat -->
-
 ---
 
 ### About me
