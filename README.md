@@ -19,14 +19,15 @@
 
 ---
 
+### Infos 
+
+- 👨‍💻 Need a Website? [https://next-generation.dev/](https://next-generation.dev/)
+- 👨‍💻 All of my projects are available at [https://meymounboualaoui.fr/](https://meymounboualaoui.fr/)
+
 ### About me
 
 - 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver), [**Next Generation**](https://github.com/Next-Generation-Dev) and [**Seeqr**](https://github.com/Seeqr-Marketplace)
 - 🌱 I'm constantly learning more about **Next.js and NextUI**
---
-- 👨‍💻 Need a Website? [https://next-generation.dev/](https://next-generation.dev/)
-- 👨‍💻 All of my projects are available at [https://meymounboualaoui.fr/](https://meymounboualaoui.fr/)
--- 
 - 📫 How to reach me: **<boualaoui.meymoun.icn@gmail.com>**
 - 🔭 How to hire me at [www.malt.fr/profile/meymounboualaoui](https://www.malt.fr/profile/meymounboualaoui)
 - ⚡ Fun fact: **I don't have time to play around.**
