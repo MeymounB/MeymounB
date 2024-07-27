@@ -19,7 +19,7 @@
 
 ---
 
-### Infos 
+### Infos
 
 - 👨‍💻 Need a Website? [https://next-generation.dev/](https://next-generation.dev/)
 - 👨‍💻 All of my projects are available at [https://meymounboualaoui.fr/](https://meymounboualaoui.fr/)
