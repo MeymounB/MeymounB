@@ -26,7 +26,7 @@
 
 ### About me
 
-- 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver), [**Next Generation**](https://github.com/Next-Generation-Dev) and [**Seeqr**](https://github.com/Seeqr-Marketplace)
+- 🔭 I'm currently working on [**Bee Driver**](https://github.com/Bee-Driver) and [**Next Generation**](https://github.com/Next-Generation-Dev).
 - 🌱 I'm constantly learning more about **Next.js and NextUI**
 - 📫 How to reach me: **<boualaoui.meymoun.icn@gmail.com>**
 - 🔭 How to hire me at [www.malt.fr/profile/meymounboualaoui](https://www.malt.fr/profile/meymounboualaoui)
